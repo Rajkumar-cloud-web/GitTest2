@@ -1,4 +1,4 @@
-// JAVA program to find sum of first     ------------------ n natural numbers
+// JAVA program to find sum of first------------------ n natural numbers
 
 import java.io.*;
 import java.util.Scanner;
@@ -14,7 +14,7 @@ class NaturalNumbers{
         return sum; 
     } 
 
-    // Driver code 
+    // Driver code....................... 
     public static void main(String args[]) 
     { 
         int n = 5; 
