@@ -1,6 +1,7 @@
 // JAVA program to find sum of first     ------------------ n natural numbers
 
-import java.io.*; 
+import java.io.*;
+import java.util.Scanner;
 
 class NaturalNumbers{ 
 
