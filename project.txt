@@ -1,5 +1,5 @@
-// JAVA program to find sum of first 
-// n natural numbers
+// JAVA program to find sum of first , n natural numbers.
+
 
 import java.io.*; 
   
